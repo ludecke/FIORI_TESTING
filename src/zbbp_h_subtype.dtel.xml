@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZBBP_H_SUBTYPE</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Specification of a Purchasing Doc.(e.g. Credit Memo/Invoice)</DDTEXT>
+    <SCRTEXT_L>Specification of a Purchasing Doc.</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

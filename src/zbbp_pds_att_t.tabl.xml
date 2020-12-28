@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TABL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD02V>
+    <TABNAME>ZBBP_PDS_ATT_T</TABNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <TABCLASS>INTTAB</TABCLASS>
+    <LANGDEP>X</LANGDEP>
+    <DDTEXT>Structure for Attachments</DDTEXT>
+    <EXCLASS>4</EXCLASS>
+   </DD02V>
+   <DD03P_TABLE>
+    <DD03P>
+     <TABNAME>ZBBP_PDS_ATT_T</TABNAME>
+     <FIELDNAME>.INCLUDE</FIELDNAME>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <POSITION>0001</POSITION>
+     <ADMINFIELD>0</ADMINFIELD>
+     <PRECFIELD>ZBBP_PDS_ATT</PRECFIELD>
+     <MASK>      S</MASK>
+     <DDTEXT>Attachments</DDTEXT>
+     <COMPTYPE>S</COMPTYPE>
+    </DD03P>
+    <DD03P>
+     <TABNAME>ZBBP_PDS_ATT_T</TABNAME>
+     <FIELDNAME>.INCLUDE</FIELDNAME>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <POSITION>0032</POSITION>
+     <ADMINFIELD>0</ADMINFIELD>
+     <PRECFIELD>ZBBP_PDS_ATT_KW</PRECFIELD>
+     <MASK>      S</MASK>
+     <DDTEXT>KW Fields</DDTEXT>
+     <COMPTYPE>S</COMPTYPE>
+    </DD03P>
+    <DD03P>
+     <TABNAME>ZBBP_PDS_ATT_T</TABNAME>
+     <FIELDNAME>.INCLU--AP</FIELDNAME>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <POSITION>0050</POSITION>
+     <ADMINFIELD>0</ADMINFIELD>
+     <PRECFIELD>ZZZA_PD_ENC_ATTACH_FLAGS</PRECFIELD>
+     <MASK>      S</MASK>
+     <DDTEXT>Fields to update attachment encryption flags</DDTEXT>
+     <COMPTYPE>S</COMPTYPE>
+    </DD03P>
+   </DD03P_TABLE>
+  </asx:values>
+ </asx:abap>
+</abapGit>

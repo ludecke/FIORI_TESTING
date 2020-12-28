@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000002</LENG>
+    <OUTPUTLEN>000002</OUTPUTLEN>
+    <VALEXI>X</VALEXI>
+    <DDTEXT>Specification of a Purchasing Doc.</DDTEXT>
+   </DD01V>
+   <DD07V_TAB>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>QA</DOMVALUE_L>
+     <DDTEXT>Quota Arrangement</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>CM</DOMVALUE_L>
+     <DDTEXT>Credit Memo for Invoice</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0003</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>IV</DOMVALUE_L>
+     <DDTEXT>Invoice</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0004</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>DP</DOMVALUE_L>
+     <DDTEXT>Purchase Order Placed with Direct Material Items</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0005</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>EP</DOMVALUE_L>
+     <DDTEXT>Extended Local Purchase Order</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0006</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>ST</DOMVALUE_L>
+     <DDTEXT>Shopping Cart Template</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0007</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>PT</DOMVALUE_L>
+     <DDTEXT>Shopping Cart Personal Template</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0008</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>FT</DOMVALUE_L>
+     <DDTEXT>Favorites Template Shopping Cart</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0009</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>CF</DOMVALUE_L>
+     <DDTEXT>Goods/Services Confirmation</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0010</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>RT</DOMVALUE_L>
+     <DDTEXT>Return Delivery Confirmation</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0011</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>ER</DOMVALUE_L>
+     <DDTEXT>External Requirement (Shopping Cart)</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0012</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>TO</DOMVALUE_L>
+     <DDTEXT>Temporary Object with Shopping Cart Item for Sourcing</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0013</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>CC</DOMVALUE_L>
+     <DDTEXT>Global Outline Agreement</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0014</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>SR</DOMVALUE_L>
+     <DDTEXT>Scheduling Agreement Release</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0015</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>CA</DOMVALUE_L>
+     <DDTEXT>Confirmation of Cancelation</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0016</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>RI</DOMVALUE_L>
+     <DDTEXT>Recommended Items</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBBP_H_SUBTYPE</DOMNAME>
+     <VALPOS>0017</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>ET</DOMVALUE_L>
+     <DDTEXT>External Requirement (Third Party)</DDTEXT>
+    </DD07V>
+   </DD07V_TAB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
