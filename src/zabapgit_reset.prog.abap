@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZABAPGIT_RESET.
 
-DELETE from zabapgit where value = '000000000018'.
+DELETE from zabapgit where value = '000000000019'.
